@@ -4,7 +4,7 @@
 Classify images as cat or dog using a deep learning convolutional neural network.
 
 **Data**:  
-- Source: TensorFlow Datasets (`cats_vs_dogs`)
+- Source: TensorFlow Datasets [`cats_vs_dogs`](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs)
 - Description: 25,000 labeled images of cats and dogs.
 
 **Data Mining Operations**:  
